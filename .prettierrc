@@ -1,0 +1,13 @@
+{
+    "singleQuote": false,
+    "tabWidth": 4,
+    "semi": true,
+    "trailingComma": "es5",
+    "printWidth": 120,
+    "endOfLine": "auto",
+    "arrowParens": "avoid",
+    "plugins": ["prettier-plugin-pkg"],
+    "importOrderSeparation": true,
+    "importOrderSortSpecifiers": true,
+    "importOrderParserPlugins": ["classProperties", "decorators-legacy", "typescript", "jsx"]
+}
